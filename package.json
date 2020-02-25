@@ -1,0 +1,28 @@
+{
+  "name": "education-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pracharya2601/education-board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pracharya2601/education-board/issues"
+  },
+  "homepage": "https://github.com/pracharya2601/education-board#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.15.1",
+    "mysql": "^2.16.0",
+    "async": "^3.1.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.3"
+  }
+}
